@@ -1,0 +1,86 @@
+[
+  {
+      "nowPriceBal": 0.000015510907157648607,
+      "hourPriceBal": 0.000015510907157648607,
+      "dayPriceBal": 0.000015510907157648607,
+      "weekPriceBal": 0.000015905563031179162,
+      "monthPriceBal": 0.000019005350271396552,
+      "maxPriceBal": 0,
+      "token": {
+          "metadata": {
+              "decimals": 18,
+              "logo": "https://static.alchemyapi.io/images/assets/24562.png",
+              "name": "Feels Good Man",
+              "symbol": "FGM"
+          },
+          "balance": "69690.00",
+          "contract": "0x1f19d846d99a0e75581913b64510fe0e18bbc31f",
+          "chain": "ethereum"
+      },
+      "nowPrice": 1895.4,
+      "tokenPriceEth": 2.2257005535440675e-10,
+      "hourPrice": 1891.3450080216778,
+      "day1Price": 1874.1779470167141,
+      "day7Price": 1716.3772810928574,
+      "day30Price": 1800.736010305837,
+      "hourPriceEth": 2.2257005535440675e-10,
+      "hourBalance": "69690000000000000000000",
+      "balance": "69690.00"
+  },
+  {
+      "nowPriceBal": 0.016905588725575165,
+      "hourPriceBal": 0.016905588725575165,
+      "dayPriceBal": 0.01686398326197535,
+      "weekPriceBal": 0.01437128648036094,
+      "monthPriceBal": 0.03039275964560291,
+      "maxPriceBal": 0,
+      "token": {
+          "metadata": {
+              "decimals": 9,
+              "logo": "https://static.alchemyapi.io/images/assets/24801.png",
+              "name": "Pepechain",
+              "symbol": "PC"
+          },
+          "balance": "67421.00",
+          "contract": "0xe1ec350ea16d1ddaff57f31387b2d9708eb7ce28",
+          "chain": "ethereum"
+      },
+      "nowPrice": 1895.4,
+      "tokenPriceEth": 2.5074663273423956e-7,
+      "hourPrice": 1891.3450080216778,
+      "day1Price": 1874.1779470167141,
+      "day7Price": 1716.3772810928574,
+      "day30Price": 1800.736010305837,
+      "hourPriceEth": 2.5074663273423956e-7,
+      "hourBalance": "67421000000000",
+      "balance": "67421.00"
+  },
+  {
+      "nowPriceBal": 2.3499912595075636,
+      "hourPriceBal": 2.6825142690265182,
+      "dayPriceBal": 2.392154967013834,
+      "weekPriceBal": 2.2549608727392676,
+      "monthPriceBal": 1.7974723487490152,
+      "maxPriceBal": 0,
+      "token": {
+          "metadata": {
+              "decimals": 18,
+              "logo": "https://static.alchemyapi.io/images/assets/25076.png",
+              "name": "Capybara",
+              "symbol": "CAPY"
+          },
+          "balance": "688310797.46",
+          "contract": "0xf03d5fc6e08de6ad886fca34abf9a59ef633b78a",
+          "chain": "ethereum"
+      },
+      "nowPrice": 1895.4,
+      "tokenPriceEth": 3.414142663720351e-9,
+      "hourPrice": 1891.3450080216778,
+      "day1Price": 1874.1779470167141,
+      "day7Price": 1716.3772810928574,
+      "day30Price": 1800.736010305837,
+      "hourPriceEth": 3.897242755629717e-9,
+      "hourBalance": "688310797460980084544538575",
+      "balance": "688310797.46"
+  }
+]

@@ -1,0 +1,25 @@
+.shadow {
+    text-shadow: 1px 1px 2px skyblue;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.shadow-bordder {
+  text-shadow: 1px 1px 2px black;
+  outline: none;
+  background: none;
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
