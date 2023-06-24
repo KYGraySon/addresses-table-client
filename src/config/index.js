@@ -7,4 +7,4 @@ export const WETH9 = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2";
 export const WBNB = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c";
 export const ethProviderKey = import.meta.env.ETH_PROVIDER;
 
-export const endpoint = "http://localhost:5050/";
+export const endpoint = "https://api-wallet-analytics.onrender.com/";
